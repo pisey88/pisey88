@@ -1,5 +1,4 @@
 # 💫 About Me:
- 💫 About Me:
  👋 Hi there, I'm Ly Sokpisey! 
  🎓 I'm a Software Development student at the American University of Phnom Penh, passionate about using technology to solve real-world problems and empower communities.
  🏆 Highlights
